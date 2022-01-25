@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HalviRahman
-- 👀 I’m interested in WEB
+- 👀 I’m interested in Web Developer
 - 🌱 I’m currently still learning 
 - 💞️ I’m looking to collaborate on company
 - 📫 How to reach me (halvi.rahman@gmail.com)
